@@ -1,0 +1,14 @@
+/home/kiro/Desktop/ex/Medical/bin/Debug/net10.0/Medical
+/home/kiro/Desktop/ex/Medical/bin/Debug/net10.0/Medical.deps.json
+/home/kiro/Desktop/ex/Medical/bin/Debug/net10.0/Medical.runtimeconfig.json
+/home/kiro/Desktop/ex/Medical/bin/Debug/net10.0/Medical.dll
+/home/kiro/Desktop/ex/Medical/bin/Debug/net10.0/Medical.pdb
+/home/kiro/Desktop/ex/Medical/obj/Debug/net10.0/Medical.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiro/Desktop/ex/Medical/obj/Debug/net10.0/Medical.AssemblyInfoInputs.cache
+/home/kiro/Desktop/ex/Medical/obj/Debug/net10.0/Medical.AssemblyInfo.cs
+/home/kiro/Desktop/ex/Medical/obj/Debug/net10.0/Medical.csproj.CoreCompileInputs.cache
+/home/kiro/Desktop/ex/Medical/obj/Debug/net10.0/Medical.dll
+/home/kiro/Desktop/ex/Medical/obj/Debug/net10.0/refint/Medical.dll
+/home/kiro/Desktop/ex/Medical/obj/Debug/net10.0/Medical.pdb
+/home/kiro/Desktop/ex/Medical/obj/Debug/net10.0/Medical.genruntimeconfig.cache
+/home/kiro/Desktop/ex/Medical/obj/Debug/net10.0/ref/Medical.dll
