@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Adol",
+    "Amout": 100,
+    "Price": 30,
+    "DocName": "Kiro",
+    "CreatedAt": "2026-02-22T17:34:42.5118323+03:00"
+  },
+  {
+    "Name": "Brufen",
+    "Amout": 100,
+    "Price": 40,
+    "DocName": "Kiro",
+    "CreatedAt": "2026-02-22T20:00:35.0736727+03:00"
+  },
+  {
+    "Name": "1,2,3",
+    "Amout": 100,
+    "Price": 20,
+    "DocName": "ELshiwi",
+    "CreatedAt": "2026-02-22T20:06:53.6301753+03:00"
+  }
+]

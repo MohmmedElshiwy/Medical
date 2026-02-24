@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Kiro",
+    "Age": 22,
+    "IdNumber": "11223344556677",
+    "UserName": "Ki",
+    "Password": "ki4727"
+  },
+  {
+    "Name": "ELshiwi",
+    "Age": 27,
+    "IdNumber": "29811251204656",
+    "UserName": "mo",
+    "Password": "moh4727"
+  },
+  {
+    "Name": "Admin",
+    "Age": 27,
+    "IdNumber": "98765432123456",
+    "UserName": "ad",
+    "Password": "ad4727"
+  }
+]

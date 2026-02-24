@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/kiro/Desktop/ex/Medical/Medical.csproj": {}
+    "/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/ex/Medical/Medical.csproj": {}
   },
   "projects": {
-    "/home/kiro/Desktop/ex/Medical/Medical.csproj": {
+    "/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/ex/Medical/Medical.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kiro/Desktop/ex/Medical/Medical.csproj",
+        "projectUniqueName": "/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/ex/Medical/Medical.csproj",
         "projectName": "Medical",
-        "projectPath": "/home/kiro/Desktop/ex/Medical/Medical.csproj",
-        "packagesPath": "/home/kiro/.nuget/packages/",
-        "outputPath": "/home/kiro/Desktop/ex/Medical/obj/",
+        "projectPath": "/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/ex/Medical/Medical.csproj",
+        "packagesPath": "/home/elshiwi/.nuget/packages/",
+        "outputPath": "/media/elshiwi/3AD0C0D1587627C5/BackEnd/Root/ex/Medical/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/kiro/.nuget/NuGet/NuGet.Config"
+          "/home/elshiwi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
